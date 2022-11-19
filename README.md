@@ -1,4 +1,4 @@
-#ML assignment
+# ML assignment
 
 It's largely derivative of my own earlier work. This is why it is written in unity of all things.
 
@@ -8,7 +8,7 @@ It is possible to draw your own digits and have the network classify them.
 # Accuracy
 It has gotten as high as 94 but the real ceiling is probably like 90% due to low-res sampling, the accuracy sample window consists of 100 samples. 
 
-#Controls (yes, controls):
+# Controls (yes, controls):
 Escape: Train the network (some labels saying "new text" will need time to refresh)
 Space: Cease training (is needed to interact with the editor)
 Return: Send your drawn digit for classification to the network
